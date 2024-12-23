@@ -5,12 +5,10 @@
    <h3>STUDIES :</h3>
    <h4>
      ~B.Tech CSE at <img align="center" src="https://upload.wikimedia.org/wikipedia/en/f/fe/Srmseal.png" alt="SRM UNIVERSITY" height="30" /> SRM UNIVERSITY</h4><hr>
-   <h3>ORGANISATION:</h3>
-   <h4> 
-    FOUNDER:  <a href="https://instagram.com/pychunk" target="blank"><img align="center" src="https://i.ibb.co/W0TpBvR/Pychunk-logo-v1-0.png" alt="PYCHUNK" height="30" width="40" /></a></h4><hr>
+   <h3>ORGANISATION:</h3><hr>
 - 💞️ Also i am interested in gaming.<br><br>
 - 📫 How to reach me :
--                  pychunk.gov@gmail.com
+-                  ramswaroop.exe@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "I possess a splendid sense of humor – it's one of my finer attributes!"
 - <h3 align="left">Connect with me:</h3>
