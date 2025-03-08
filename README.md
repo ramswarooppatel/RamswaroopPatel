@@ -29,6 +29,34 @@
 </div>
 
 
+## 🚀 About Me (Code Format)
+```json
+{
+  "name": "Ramswaroop Patel",
+  "title": "Tech Enthusiast & Innovator",
+  "skills": [
+    "Web Development",
+    "App Development",
+    "IoT & Robotics",
+    "Artificial Intelligence & Machine Learning",
+    "Cybersecurity & Ethical Hacking",
+    "UI/UX Design"
+  ],
+  "university": {
+    "name": "SRM University",
+    "degree": "B.Tech in Computer Science & Engineering",
+    "focus": ["Web Development", "Android development", "Cybersecurity", "Robotics"]
+  },
+  "interests": [
+    "Gaming 🎮",
+    "Neuroscience 🧠",
+    "Space Exploration 🌌",
+    "Tech Innovation ⚡"
+  ]
+}
+```
+
+
 ## 🎓 Education
 
 <div align="center">
