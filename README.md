@@ -1,7 +1,7 @@
 # <div align="center">💻 Ramswaroop Patel | Tech Enthusiast 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Robotics+Enthusiast;Cybersecurity+Explorer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;App+Developer;IoT;Software+developer;Neuro+Science;Gaming;Robotics+Enthusiast;Cybersecurity+Explorer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
 <div align="center">
@@ -26,9 +26,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamswaroopPatel&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamswaroopPatel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</div>
 
 ## 🎓 Education
 
