@@ -157,5 +157,7 @@
 - Gaming enthusiast 🎮
 
 <div align="center">
+  <a href="https://rpxz.vercel.app">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=01010010%2001100001%2001101101&section=footer&textBg=false&reversal=true&fontAlign=50&fontSize=51&descAlign=33&descAlignY=25"/>
+  </a>
 </div>
