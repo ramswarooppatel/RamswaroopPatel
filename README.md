@@ -1,7 +1,7 @@
 # <div align="center">💻 Ramswaroop Patel | Tech Enthusiast 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;App+Developer;IoT;Software+developer;Neuro+Science;Gaming;Robotics+Enthusiast;Cybersecurity+Explorer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=🌐+Web+Developer;📱+App+Developer;🤖+IoT+Enthusiast;💻+Software+Developer;🧠+Neuroscience+Explorer;🎮+Gaming+Enthusiast;🤖+Robotics+Lover;🔐+Cybersecurity+Explorer;🎨+UI/UX+Designer;⚡+AI+and+ML+Learner;🚀+Tech+Innovator&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
 </div>
 
 <div align="center">
@@ -11,13 +11,15 @@
   <img src="https://komarev.com/ghpvc/?username=RamswaroopPatel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" > 
+  <br><br>
   <a href="https://rpxz.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00FF00&labelColor=000000">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00FF00&labelColor=000000" width="250" height="62.5">
   </a>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
 
 ## 📊 GitHub Statistics
 
@@ -43,6 +45,9 @@
     </tr>
   </table>
 </div>
+<br>
+<hr>
+<br>
 
 ### ✨ Tech Arsenal
 
@@ -54,18 +59,20 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2C2C2C)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2C2C2C)](#)
+<br><br>
 
 ### 🔀 Backend Development
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2C2C2C)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=2C2C2C)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=2C2C2C)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black&labelColor=2C2C2C)](#)
 [![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-0082C9?style=for-the-badge&logo=api&logoColor=white&labelColor=2C2C2C)](#)
+<br><br>
 
 ### 🎨 Styling & UI/UX
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=2C2C2C)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=2C2C2C)](#)
 [![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white&labelColor=2C2C2C)](#)
+<br><br>
 
 ### 🎨 Creative Suite
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=2C2C2C)](#)
@@ -73,6 +80,7 @@
 [![Wix](https://img.shields.io/badge/Wix-FAAD4D?style=for-the-badge&logo=wix&logoColor=white&labelColor=2C2C2C)](#)
 [![Filmora](https://img.shields.io/badge/Filmora-00B140?style=for-the-badge&logo=filmora&logoColor=white&labelColor=2C2C2C)](#)
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-DD0B00?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=2C2C2C)](#)
+<br><br>
 
 
 ### 🧠 AI Expertise
@@ -80,11 +88,13 @@
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-25A162?style=for-the-badge&logo=openai&logoColor=white&labelColor=2C2C2C)](#)
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-1A1A1A?style=for-the-badge&logo=deepseek&logoColor=white&labelColor=2C2C2C)](#)
 [![Claude](https://img.shields.io/badge/Claude-FFB300?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=2C2C2C)](#)
+<br><br>
 
 ### 📊 Database Systems
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2C2C2C)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=2C2C2C)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2C2C2C)](#)
+<br><br>
 
 ### 🔧 Development Tools
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=2C2C2C)](#)
@@ -92,6 +102,7 @@
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=2C2C2C)](#)
 [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=2C2C2C)](#)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](#)
+<br><br>
 
 
 ### 🛠️ Hardware & IoT
@@ -100,6 +111,9 @@
 
 </div>
 
+<br>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🌐 Connect With Me
 
