@@ -9,6 +9,8 @@
     <img src="https://img.shields.io/github/followers/RamswaroopPatel?label=Follow&style=social" alt="GitHub followers">
   </a>
   <img src="https://komarev.com/ghpvc/?username=RamswaroopPatel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+
+
 </div>
 
 <div align="center">
@@ -76,6 +78,9 @@
 <br>
 <hr>
 <br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ramswarooppatel&theme=merko&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✨ Tech Arsenal
 
