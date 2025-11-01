@@ -12,7 +12,8 @@
 
 
 </div>
-
+# Visit the portfolio if wanna know whats actually cooking up . . .
+## Lets Collaborate and build something that has never been done before - ping me up @ ramswaroop.exe@gmail.com
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" > 
   <br><br>
