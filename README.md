@@ -1,5 +1,4 @@
 # <div align="center">💻 Ramswaroop Patel | Tech Enthusiast 🚀</div>
-# Being Fake - Exploring the tech and building on ROS and Neuro-science with an essence of Cybersecurity 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=🌐+Web+Developer;📱+App+Developer;🤖+IoT+Enthusiast;💻+Software+Developer;🧠+Neuroscience+Explorer;🎮+Gaming+Enthusiast;🤖+Robotics+Lover;🔐+Cybersecurity+Explorer;🎨+UI/UX+Designer;⚡+AI+and+ML+Learner;🚀+Tech+Innovator&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
 </div>
